@@ -1,0 +1,5 @@
+﻿  Project1.cpp
+D:\course progarmming\course8\Project1\Project1\Project1.cpp(43,23): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+D:\course progarmming\course8\Project1\Project1\Project1.cpp(96,18): warning C4244: 'initializing': conversion from 'double' to '__int64', possible loss of data
+D:\course progarmming\course8\Project1\Project1\Project1.cpp(99,13): warning C4244: '+=': conversion from 'double' to '__int64', possible loss of data
+  Project1.vcxproj -> D:\course progarmming\course8\Project1\x64\Debug\Project1.exe

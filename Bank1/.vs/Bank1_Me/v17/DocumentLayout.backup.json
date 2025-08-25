@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\course progarmming\\course7\\Bank1_Me\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{186EBC6E-962B-416F-8D1B-AB387E47CDF3}|Bank1_Me.vcxproj|D:\\course progarmming\\course7\\Bank1_Me\\Bank1_Me.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{186EBC6E-962B-416F-8D1B-AB387E47CDF3}|Bank1_Me.vcxproj|solutionrelative:Bank1_Me.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bank1_Me.cpp",
+              "DocumentMoniker": "D:\\course progarmming\\course7\\Bank1_Me\\Bank1_Me.cpp",
+              "RelativeDocumentMoniker": "Bank1_Me.cpp",
+              "ToolTip": "D:\\course progarmming\\course7\\Bank1_Me\\Bank1_Me.cpp",
+              "RelativeToolTip": "Bank1_Me.cpp",
+              "ViewState": "AgIAAHIBAAAAAAAAAAAAAJEBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-24T01:05:42.35Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

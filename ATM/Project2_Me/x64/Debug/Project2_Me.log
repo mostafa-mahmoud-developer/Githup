@@ -1,0 +1,4 @@
+﻿  Project2_Me.cpp
+D:\course progarmming\course8\Project2_Me\Project2_Me\Project2_Me.cpp(26,23): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+D:\course progarmming\course8\Project2_Me\Project2_Me\Project2_Me.cpp(159,1): warning C4715: 'FindQuickWhithdraw': not all control paths return a value
+  Project2_Me.vcxproj -> D:\course progarmming\course8\Project2_Me\x64\Debug\Project2_Me.exe
